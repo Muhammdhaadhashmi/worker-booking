@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103837707836",
+    "project_id": "worker-booking-app",
+    "storage_bucket": "worker-booking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103837707836:android:3533ea11f669561585dd39",
+        "android_client_info": {
+          "package_name": "com.app.ghar_pe_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103837707836-svask3gvjqo6phe3evsgq5i47fnr8fph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQYnW06ux-PS_a6Wms3XEkqp7gXpcpm7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103837707836-svask3gvjqo6phe3evsgq5i47fnr8fph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
